@@ -14,13 +14,13 @@
 </div>
 <Br>
 <div id="header" align="center">
-  <a href="https://https://weather-dashboard-using-react-2025.vercel.app//" target="_blank"><img src="https://github.com/Prasanto19/weather-dashboard-using-react-2025/blob/main/src/assets/weather-dashboard-desktop.png" width="100"/></a>
+  <a href="https://weather-dashboard-using-react-2025.vercel.app/" target="_blank"><img src="https://github.com/Prasanto19/weather-dashboard-using-react-2025/blob/main/src/assets/weather-dashboard-desktop.png" width="100"/></a>
 </div>
 <h2  id="header" align="center" >
-  <a  href="https://https://weather-dashboard-using-react-2025.vercel.app/"  target="_blank">Prashanta | Weather Dashboard App using React.js</a>
+  <a  href="https://weather-dashboard-using-react-2025.vercel.app/"  target="_blank">Prashanta | Weather Dashboard App using React.js</a>
 </h2>
 <div >
-  <a href="https://https://weather-dashboard-using-react-2025.vercel.app/" target="_blank">
+  <a href="https://weather-dashboard-using-react-2025.vercel.app/" target="_blank">
    <img alt="Responsive app image" src="https://github.com/Prasanto19/weather-dashboard-using-react-2025/blob/main/src/assets/weather-dashboard-desktop.png" />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 ## Built With
 
-This is a <a href="https://weather-dashboard-using-react-2025.vercel.app" target="_blank">Weather Dashboard App</a> build with react and vite.
+This is a <a href="https://weather-dashboard-using-react-2025.vercel.app/" target="_blank">Weather Dashboard App</a> build with react and vite.
 
 This app will provide the weather information.
 For getting the weather information, user should have allow the browser to get the location lattitude and longitude information. It should be done only first time visit. It is safe, I have used Javascript GEOLOCATION API to solve this task.
