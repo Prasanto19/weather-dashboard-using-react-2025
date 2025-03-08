@@ -9,7 +9,7 @@ export default function FavouriteLocations({ onShow, showFavModal }) {
   }
   return (
     <div
-      className={`p-2 hover:bg-black/30  cursor-pointer flex gap-2 items-center rounded-md ${favModalStyle}`}
+      className={`p-2 hover:bg-black/30 text-white  cursor-pointer flex gap-2 items-center rounded-md ${favModalStyle}`}
       onClick={onShow}
     >
       <img src={HeartIcon} alt="HeartIcon" />
